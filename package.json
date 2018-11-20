@@ -1,0 +1,32 @@
+{
+  "name": "Vue-Graph-Chart-Map",
+  "version": "5.3.1",
+  "description": "Chart and Map depending on coin data",
+  "main": "graph-charet-component.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdeveloper0418/Vue-Graph-Chart-GoogleMap.git"
+  },
+  "keywords": [
+    "vue",
+    "js",
+    "google",
+    "map",
+    "marker",
+    "custom"
+  ],
+  "author": "Webdevelope0418",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webdeveloper0418/Vue-Graph-Chart-GoogleMap.git/issues"
+  },
+  "homepage": "https://github.com/webdeveloper0418/Vue-Graph-Chart-GoogleMap.git",
+  "dependencies": {
+    "underscore": "^1.9.1",
+    "vue": "^2.5.17",
+    "vue2-google-maps": "^0.10.2"
+  }
+}
